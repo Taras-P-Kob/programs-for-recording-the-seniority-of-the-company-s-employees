@@ -1,0 +1,9 @@
+1936_09_22 2 Biden_Taras_Petrovich 2013_05_19 Programmer
+1956_03_27 1 Melnik_Sergey_Anatolyevich 2014_06_12 Manager
+1949_12_18 6 Lebyshchak_Galina_Leonidivna 2000_05_20 Director
+1948_06_05 6 Bontei_Galina_Leonidivna 2011_01_09 Seller
+1977_06_10 6 Filonenko_Ivan_Borysovych 2020_01_09 Seller
+1951_01_06 6 Brylynsky_Taras_Adrianovych 2000_05_20 Engineer
+1960_06_10 6 Donets_Emmanuel_Artemovich 2020_01_09 Seller
+2000_10_10 4 Zvir_Joe_Romanovych 2022_07_01 Director
+
